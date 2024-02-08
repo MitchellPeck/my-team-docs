@@ -5,11 +5,27 @@
 ## Accessing the App <a href="#accessing" id="accessing"></a>
 
 * [Login](accessing/login.md)
-* [Selecting a Team to Scout](accessing/selecting-a-team-to-scout.md)
+* [Register a User](accessing/register-a-user.md)
+* [Join a Team](accessing/join-a-team.md)
+* [Create a Team Account](accessing/create-a-team-account.md)
 
 ## Main Interface <a href="#main" id="main"></a>
 
-* [Home Screen](main/home-screen.md)
-* [Form Pages](main/form-pages.md)
-* [Uploading your Responses](main/uploading-your-responses.md)
-* [Automatic Data Management](main/automatic-data-management.md)
+* [Dashboard](main/dashboard.md)
+* [Menu](main/menu.md)
+
+## Scouting
+
+* [Scouting Dashboard](scouting/scouting-dashboard.md)
+* [Scouting Forms](scouting/scouting-forms.md)
+* [Analyze Data](scouting/analyze-data.md)
+
+## Scheduling
+
+* [Schedule](scheduling/schedule.md)
+
+## Technical
+
+* [Caching](technical/caching.md)
+* [Data Transfer Methods](technical/data-transfer-methods.md)
+* [Scan & Transfer](technical/scan-and-transfer.md)
