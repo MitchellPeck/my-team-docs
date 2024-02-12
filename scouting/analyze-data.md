@@ -8,7 +8,7 @@ The analyze data page allows you to see your team's submissions, as well as thos
 
 If a team is sharing their responses with you, you'll see a notification about it at the top of the Analyze page.
 
-![](../.gitbook/assets/user-scouting-analyze-shared.png)
+![](../.gitbook/assets/user-scouting-analyze-shared)
 
 You can also see that a response was submitted by another team by clicking a response, and scrolling down to the 'Response team' field.
 
