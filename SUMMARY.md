@@ -2,22 +2,18 @@
 
 * [Introduction](README.md)
 
-## Accessing the Management Portal <a href="#accessing" id="accessing"></a>
+## Scheduling
 
-* [Coach Login](accessing/coach-login.md)
-* [Team Member Login](accessing/team-member-login.md)
-* [Create Team Account](accessing/create-team-account.md)
+* [How does Scheduling work?](scheduling/how-does-scheduling-work.md)
+* [Management](scheduling/management.md)
+* [User Assignments](scheduling/user-assignments.md)
+* [Keep in mind...](scheduling/keep-in-mind....md)
 
-## Coach Interface <a href="#coach" id="coach"></a>
+## Team Settings
 
-* [Roster](coach/roster.md)
-* [Event Info](coach/event-info.md)
-* [Event Progress](coach/event-progress.md)
-* [Questions](coach/questions.md)
-* [Responses](coach/responses.md)
-
-## Team Member Enterface <a href="#member" id="member"></a>
-
-* [Event Info](member/event-info.md)
-* [Event Progress](member/event-progress.md)
-* [Responses](member/responses.md)
+* [Interface](team-settings/interface.md)
+* [Team Information](team-settings/team-information.md)
+* [Users](team-settings/users.md)
+* [Requests & Authorizations](team-settings/requests-and-authorizations.md)
+* [Responses Publicity](team-settings/responses-publicity.md)
+* [Scouting & Match Questions](team-settings/scouting-and-match-questions.md)

@@ -1,0 +1,3 @@
+# Keep in mind...
+
+Keep in mind that this is a new platform for your users to get used to. When building your schedule, keep it as simple and short as possible. We included the loop functionality for a reason - to shorten the list! Don't schedule out the whole event if you're able to loop it.

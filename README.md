@@ -1,19 +1,10 @@
 # Introduction
 
-The Management Portal is an online application that both team members and coaches can access to achieve certain functionality.
+This documentation is specifically for managers. We won't cover any information from the General Docs here. Managers will still need to read over the General Docs, but the Manager Docs provide instruction on features for managers.
 
-For Team Members:
+As a manager, there are two key features that are accessible to you:
 
-* View current event information
-* View match information
-* View pregame and midgame responses for individual events
+* Manage Scheduling
+* Team Settings
 
-For Coaches:
-
-* View and manage roster
-* View current event information
-* View match information
-* Customize pregame and midgame questions
-* View pregame and midgame responses for individual events
-
-This documentation explains how to use the management portal.
+&#x20;This documentation covers these two features.
