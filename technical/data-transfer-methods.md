@@ -10,6 +10,8 @@ By default, every time you login, both Data Transfer Methods will be turned off.
 
 Data Transfer Methods primarily determine what you're able to do with scouting as well as settings if you're a manager.
 
+Note that you'll only be able to have one Data Transfer Method switched on at a time. If you attempt to turn on a second Data Transfer Method, the first one will be switched off.
+
 ## Automatic - Wifi
 
 When the 'Automatic - WiFi' Data Transfer Method is on, your scouting responses will be automatically uploaded, and you'll be able to analyze responses. You'll also be able to configure settings if you're a manager.
