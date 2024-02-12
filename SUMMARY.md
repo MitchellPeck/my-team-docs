@@ -29,3 +29,4 @@
 * [Caching](technical/caching.md)
 * [Data Transfer Methods](technical/data-transfer-methods.md)
 * [Scan & Transfer](technical/scan-and-transfer.md)
+* [Online App Caveat](technical/online-app-caveat.md)
