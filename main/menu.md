@@ -6,6 +6,8 @@ The menu is the main point of navigation around the app. Depending on whether or
 
 ![](../.gitbook/assets/user-menu-online)
 
+One of the added items is 'Rebuild Cache'. See more about Rebuilding your Cache [here](../technical/caching.md#rebuilding-cache).
+
 ## Menu without 'Automatic - WiFi'
 
 ![](../.gitbook/assets/user-menu-offline)
