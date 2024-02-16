@@ -9,7 +9,7 @@ The current core features are:
 * Sharing scouting responses with other teams for collaboration
 * Scheduling team members to different tasks during different matches.
 
-We plan to continue developing the app to include more features, and will update this documentation regularly to keep it in sync.
+We plan to continue developing the app to include more features, and will update this documentation every Sunday (if necessary) to keep it in sync.
 
 The application can be accessed on any device using this [link](https://onelink.to/ym2w3h). Clicking it on a mobile device will automatically take you to your app store to download the app. Clicking it on a non-mobile app will open the web application. The web application can also be accessed on mobile devices. The web application can be found [here](https://app.myteamapp.org).
 
