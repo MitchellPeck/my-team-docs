@@ -30,3 +30,5 @@ When you click on a response, a modal will appear with all the details from the 
 
 You can also delete the response by clicking the trash can in the top left corner. This action is irreversible, so make sure this is something you want to do.
 
+If you're viewing a response that was shared with you by another team, there won't be a trash can icon.
+
